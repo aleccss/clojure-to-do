@@ -1,6 +1,6 @@
 # todo-app
 
-This is a simple TO-DO inspired form http://todomvc.com/.
+This is a simple TO-DO inspired from http://todomvc.com/.
 
 ## Overview
 
